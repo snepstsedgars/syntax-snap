@@ -4,6 +4,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "firebase-build": "./scripts/firebase-build.sh",    
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
